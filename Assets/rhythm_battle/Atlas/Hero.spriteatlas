@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hero
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 51b3ae1940556e045b32de484b53a391, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 7443365261780402156, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 7300611208593989378, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 4035910705650277433, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -7729175463210380083, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -7363438382091012166, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 5442421477882390044, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 501971355633459471, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 6231675886364354359, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -4985015489612207441, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -1646025091416247506, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -8298523920096370950, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: 7113933565516449965, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  - {fileID: -2283322978373562639, guid: fce9ccc0b8e874902a42b6f842fad15d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Hero_Body
+  - Hero_Head
+  - Jewel
+  - Hero_Leg_R
+  - Hero_Leg_L
+  - Hero_Sword2
+  - Hero_CloakFront
+  - Hero_Hand_R
+  - Hero_CloakBack
+  - Hero_Hand_L
+  - Hero_Shield2
+  - Wing_R
+  - Wing_L
+  m_RenderDataMap: {}
+  m_Tag: Hero
+  m_IsVariant: 0

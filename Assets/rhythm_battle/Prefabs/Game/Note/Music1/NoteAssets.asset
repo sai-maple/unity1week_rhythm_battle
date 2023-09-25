@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af1464efc92840cca363c81120f2ed79, type: 3}
+  m_Name: NoteAssets
+  m_EditorClassIdentifier: 
+  NoteViews:
+  - {fileID: 679175325527700963, guid: 9b03d21f0db56432bae4af1818c0aedf, type: 3}
+  - {fileID: 679175325527700963, guid: d2db2c89bc584478da7b5f088dd695df, type: 3}
+  - {fileID: 679175325527700963, guid: eae92ba26d0964845adf1ef7eac3cd53, type: 3}
+  - {fileID: 679175325527700963, guid: ff87f2e777b2d4bc8b37d7e1c5ccfe1a, type: 3}
+  - {fileID: 679175325527700963, guid: 1ddcda269b9a34b7992c6ff97e80bbff, type: 3}
+  - {fileID: 679175325527700963, guid: 382c3fffd455c46c1b0bf2461ccf9df3, type: 3}
+  - {fileID: 679175325527700963, guid: e0971cf5c546241be9da1de04d7325eb, type: 3}
+  - {fileID: 679175325527700963, guid: 064a18209c8fd4458985e78fe505c53e, type: 3}
